@@ -1,0 +1,13 @@
+{
+  "name": "othello",
+  "version": "0.0.1",
+  "author": "TakumiBaba",
+  "dependencies": {
+    "mongodb": "1.2.11",
+    "restify": "*",
+    "node-dev": "*",
+    "coffee-script": "*",
+    "jade": "*",
+    "less": "*"
+  }
+}
